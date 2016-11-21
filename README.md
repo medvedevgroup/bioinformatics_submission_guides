@@ -8,6 +8,7 @@ Bioinformatics Journal Guides
 - your main text can only have 8 pages, do not exceed it
 
 - Check files you need to prepared for submission:
+
 1. main.tex
 
 2. main.bib
